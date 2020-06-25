@@ -1,2 +1,2 @@
-# CHEM3350
-repository for CHEM330 Internet of Things course
+# Cheminformatics
+repository for CHEM3351 Cheminformatics Course
